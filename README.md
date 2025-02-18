@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Sharma</h1>
-<h3 align="center">A Computer Science Major from Wilfrid Laurier Univerity, Waterloo</h3>
+<h3 align="center">A Computer Science Major from Wilfrid Laurier University, Waterloo</h3>
 
 - 🔭 I’m currently working on [LinkedIn Job Recommender](https://github.com/adichn/ML_Project)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shar.abhinav13@gmail.com**
 
-- ⚡ Fun fact **I love Studying about Automobile.**
+- ⚡ Fun fact **I love studying about automobiles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
