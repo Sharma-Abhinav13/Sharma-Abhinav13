@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Sharma</h1>
-<h3 align="center">A Computer Science Major from Wilfrid Laurier University, Waterloo</h3>
+<h3 align="center">A Computer Science Major at Wilfrid Laurier University, Waterloo</h3>
 
 - 🔭 I’m currently working on [LinkedIn Job Recommender](https://github.com/adichn/ML_Project)
 
